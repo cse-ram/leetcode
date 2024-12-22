@@ -1,4 +1,4 @@
-package leetcode75;
+package leetcode75.java;
 
 //1768. Merge Strings Alternately
 // https://leetcode.com/problems/merge-strings-alternately/description/
@@ -22,7 +22,7 @@ public class Leet1768 {
         return merged.toString();
     }
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
         String word1 = "abc";
         String word2 = "pqr";
 
