@@ -3,7 +3,7 @@ package leetcode75.java;
 //345. Reverse Vowels of a String
 //https://leetcode.com/problems/reverse-vowels-of-a-string/
 
-public class Leetcode345 {
+public class Leet345 {
 
     private final String VOWELS = "aeiouAEIOU";
 
@@ -32,7 +32,7 @@ public class Leetcode345 {
 
     public static void main(String[] args) {
         String s = "IceCreAm";
-        Leetcode345 leetcode345 = new Leetcode345();
+        Leet345 leetcode345 = new Leet345();
         String res = leetcode345.reverseVowels(s);
         System.out.println(res);
     }
