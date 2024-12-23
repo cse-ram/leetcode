@@ -1,7 +1,7 @@
 package leetcode75.java;
 
 //345. Reverse Vowels of a String
-//https://leetcode.com/problems/reverse-vowels-of-a-string/description/
+//https://leetcode.com/problems/reverse-vowels-of-a-string/
 
 public class Leetcode345 {
 

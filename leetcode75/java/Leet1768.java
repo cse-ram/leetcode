@@ -1,7 +1,7 @@
 package leetcode75.java;
 
 //1768. Merge Strings Alternately
-// https://leetcode.com/problems/merge-strings-alternately/description/
+// https://leetcode.com/problems/merge-strings-alternately/
 
 public class Leet1768 {
 
